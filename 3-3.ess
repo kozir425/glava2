@@ -1,0 +1,10 @@
+? 3.3. сделайте вывод 2 + 2 = 4, где числами будут 3 переменные a = 2, b = 2, c = a + b
+start
+new a number
+new b number
+new c number
+set a 2
+set b 2
+set c a + b
+log string a >> " + " >> b >> " = " >> c
+finish
